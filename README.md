@@ -23,11 +23,11 @@
     </tr>
     <tr>
       <td style="padding: 8px 16px; text-align: center;">💬</td>
-      <td style="padding: 8px 16px; text-align: left;">Ask me about  Java, Data Analysis , Web development </td>
+      <td style="padding: 8px 16px; text-align: left;">Ask me about Web development, Java, Data Analysis </td>
     </tr>
  <tr>
       <td style="padding: 8px 16px; text-align: center;">💬</td>
-      <td style="padding: 8px 16px; text-align: left;">Reach me : mayursarade0503@gmail.com  </td>
+      <td style="padding: 8px 16px; text-align: left;">Reach me : sandeshchandgude.02@gmail.com  </td>
     </tr>
 
 
