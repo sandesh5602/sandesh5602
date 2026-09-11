@@ -36,10 +36,9 @@
 <h2 style="margin-: 0;" align='center' ><img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Lets connect through  </h2>
 
 <p align="left">
-<a href="https://twitter.com/mayursarad13748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayursarad13748" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayur-sarade-b7478424a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-sarade-b7478424a" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mayur1380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mayur1380" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mayur._.ms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mayur._.ms/" height="30" width="40" /></a>
+<a href="https://x.com/sandesh5602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sandesh5602" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandeshchandgude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandeshchandgude" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sandesh_chandgude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sandesh_chandgude" height="30" width="40" /></a>
 </p>
  <h2 style="margin-: 0;" align='left' >💻 My Tech Stack  </h2>
   
